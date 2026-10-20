@@ -1,0 +1,1 @@
+Coloque a logo neste diretório com o nome logo-pura-essencia.jpg para corresponder ao caminho usado no index.html.
